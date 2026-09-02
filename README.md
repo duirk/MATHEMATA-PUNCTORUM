@@ -3,7 +3,7 @@ Catálogo Definitivo y Completo de los 30 Operadores Punctiformes con Glifos Vec
 NOTA DE ADVERTENCIA Y DESCARGO DE RESPONSABILIDAD
 =====================================================
 Documento: Mathemata Punctorum: Nova Logica v3.2
-Autor: Nadál Ferrá (Investigador Independiente)
+Autor: Nadal Ferrá (Investigador Independiente)
 Fecha de emisión: 4 de septiembre de 2026
 
 -----------------------------------------------------
