@@ -4,7 +4,7 @@ NOTA DE ADVERTENCIA Y DESCARGO DE RESPONSABILIDAD
 =====================================================
 Documento: Mathemata Punctorum: Nova Logica v3.2
 Autor: Nadal Ferrá (Investigador Independiente)
-Fecha de emisión: 4 de septiembre de 2026
+Fecha de emisión: 2 de septiembre de 2026
 
 -----------------------------------------------------
 1.NATURALEZA DEL DOCUMENTO Y CARÁCTER EXPERIMENTAL
