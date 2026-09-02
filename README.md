@@ -2,10 +2,10 @@
 Catálogo Definitivo y Completo de los 30 Operadores Punctiformes con Glifos Vectoriales
 NOTA DE ADVERTENCIA Y DESCARGO DE RESPONSABILIDAD
 =====================================================
-Documento: Mathemata Punctorum: Nova Logica v3.2
+Documento: Mathemata Punctorum: Nova Logica 
 Autor: Nadal Ferrá (Investigador Independiente)
 Fecha de emisión: 2 de septiembre de 2026
-
+MATHEMATA-PUNCTORUM es un proyecto experimental que explora una nueva forma de lógica simbólica basada en operadores punctiformes y transformaciones de estados.
 -----------------------------------------------------
 1.NATURALEZA DEL DOCUMENTO Y CARÁCTER EXPERIMENTAL
 -----------------------------------------------------
