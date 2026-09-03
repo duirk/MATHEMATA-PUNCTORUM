@@ -1,0 +1,30 @@
+# ⚠️ Nota Metodológica y Aviso sobre P = NP
+
+Este repositorio contiene un ejercicio experimental y conceptual (**Mathemata Punctorum**) 
+orientado a explorar la topología de espacios discretos, operadores punctiformes y la
+verificación de cobertura para conjuntos numéricos específicos (en particular, potencias de base 2).
+
+---
+
+### 🔍 Conclusión Técnica Final
+
+1. **Validez en el caso particular (Local):** 
+   El sistema demuestra con éxito la cobertura completa y la descomposición
+algorítmica en tiempo polinómico $O(n \cdot \text{target})$ para el conjunto
+acotado $C = [1, 2, 4, 8, 16, 32]$ hasta un límite de $63$. Esto es una 
+consecuencia directa y natural de las propiedades matemáticas del sistema numérico binario.
+
+2. **Invalidez como prueba general de $P = NP$ (Global):** 
+   Desde la perspectiva de la teoría de la complejidad computacional,
+resolver instancias específicas utilizando un conjunto estático de
+tamaño reducido **no** equivale a demostrar que $P = NP$ para **cualquier**
+conjunto arbitrario de entrada de tamaño variable $n$ en el problema general 
+de la suma de subconjuntos (*Subset Sum*, el cual es NP-completo). 
+
+---
+
+### 📌 Resumen
+El script y los modelos aquí presentados funcionan
+correctamente como una **demostración de alcance restringido
+y ejercicio de programación estructurada**, pero 
+**no constituyen una resolución formal ni general** del problema milenario $P$ versus $NP$.
