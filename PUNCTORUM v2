@@ -5,3 +5,27 @@ Añadimos los glifos como una sección.
 Escribimos las demostraciones de los teoremas.
 
 Hacia una Tercera Parte.
+
+Nota IMPORTANTE =
+
+# Visión Original de Mathematica-Punctorum
+
+Este repositorio contiene la formalización de un sistema axiomático de operadores punctiformes, pero su origen no está en las fórmulas, sino en una visión estructural.
+
+## El Proceso
+
+La idea de *Punctorum* nació como una intuición: un espacio donde cada punto tiene estado, fase y carga; donde existen núcleos de estabilidad y operadores que bifurcan, auditan y sincronizan. Esa visión es íntegramente del autor.
+
+Primero fue escrita a mano, en mi libro de notas, en lenguaje natural. Luego, la traduje a este repositorio.
+
+## La Formalización
+
+La traducción de esa visión a notación matemática estándar (símbolos, definiciones, teoremas) fue asistida por herramientas de IA, utilizadas como amanuenses digitales, al igual que los copistas de Newton o los colegas matemáticos de Einstein.
+
+## La Validación
+
+Todas las definiciones y teoremas han sido revisados y validados manualmente por el autor. La IA no ha generado ningún concepto nuevo; solo ha servido como escriba especializado en notación formal.
+
+---
+
+*Nadal Ferrà — Investigador Independiente*
